@@ -6,7 +6,7 @@ Russian fontconverter for Adafruit GFX library
 
 ### Использование:
 
-fontconvert.exe <fontName> <size> [startSymbol] [endSymbol] [RUS] [dpiX] [dpiY]
+fontconvert.exe fontName size [startSymbol] [endSymbol] [RUS] [dpiX] [dpiY]
  - fontName - Имя файла шрифта т.е. arial.ttf
 - size - размер шрифта
  - startSymbol - начальный символ , обычно 32 т.е пробел
