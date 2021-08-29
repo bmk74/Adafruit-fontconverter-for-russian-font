@@ -3,10 +3,13 @@ Russian fontconverter for Adafruit GFX library
 
 Консольная программа конвертации шрифтов для библиотеки Adafruit GFX. Основана на оригинальной версии fontconverter. 
 Добавлена возможность для создания шрифтов с русскими символами в кодировке CP1251.
+
 Использование:
+
 fontconvert.exe <fontName> <size> [startSymbol] [endSymbol] [RUS] [dpiX] [dpiY]
 fontName - Имя файла шрифта т.е. arial.ttf
 size - размер шрифта
+  
 startSymbol - начальный символ , обычно 32 т.е пробел
 endSymbol - номер конечного символа для русского шрифта обязательно должно быть не менее 255
 RUS - признак того что конвертация будет с русским шрифтом
