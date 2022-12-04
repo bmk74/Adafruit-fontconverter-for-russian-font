@@ -6,6 +6,8 @@ Russian fontconverter for Adafruit GFX library
 
 ### Использование:
 
+Программа и нужные dll лежат в папке FontConvert exe. Скопируйте директорию себе на компьютер и запускайте программу из жанной директории.
+
 fontconvert.exe fontName size [startSymbol] [endSymbol] [RUS] [dpiX] [dpiY]
  - fontName - Имя файла шрифта т.е. arial.ttf
 - size - размер шрифта
